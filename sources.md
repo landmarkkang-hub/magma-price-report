@@ -7,5 +7,10 @@
 
 ## 출처 목록
 
-- 중가: 경쟁사 공식 요금 페이지
-- 프리미엄: 경쟁사 공식 요금 페이지
+- 중가: 경쟁사 공식 상품 페이지
+- 프리미엄: 2026-07-18 관측 · MAGMA 회사 지식베이스 `03-가격포지셔닝.md` 25~29행
+  - FJALLRAVEN 남성 바르닥 자켓: https://www.okmall.com/products/view?no=703004
+  - FJALLRAVEN 그린란드 No.1 다운 자켓: https://www.fjallraven.co.kr/app/product/detail/131856/0
+  - FJALLRAVEN 레이븐 재킷-남: https://www.yesmountain.com/goods/goods_view.php?goodsNo=186795145
+  - Arc'teryx 에이픽스 코어로프트 후디-남: https://www.yesmountain.com/goods/goods_view.php?goodsNo=186791150
+  - Arc'teryx 카덴 GTX 자켓-남: https://www.yesmountain.com/goods/goods_view.php?goodsNo=186793246
