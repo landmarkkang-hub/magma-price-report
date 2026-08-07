@@ -7,5 +7,7 @@
 
 ## 출처 목록
 
-- 저가: 경쟁사 공식 요금 페이지
+- 저가: VANS 공식 상품 페이지 (2026-07-18 관측)
+  - 반스 반팔 티셔츠 (VN0A4MM7KSF): https://www.vans.co.kr/PRODUCT/VN0A4MM7KSF
+  - 파인 다이닝 반소매 티셔츠 (VN000M6BBLK): https://www.vans.co.kr/PRODUCT/VN000M6BBLK
 - 중가: 경쟁사 공식 요금 페이지
